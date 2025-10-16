@@ -87,7 +87,7 @@ Este repositorio contiene los cuatro desafíos desarrollados para la materia de 
 
 **Universidad:** Universidad de Buenos Aires (UBA)
 
-**Autor:** Alejandro Nicolás Tacchella
+**Autor:** Ing. Alejandro Nicolás Tacchella
 
 **Proferores:** Dr. Rodrigo Cardenas Szigety, Dr. Mauro Bringas
 
